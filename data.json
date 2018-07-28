@@ -1,0 +1,53 @@
+{
+	"details":{
+		"name":"lokesh",
+		"image":"a.jpg",
+		"phone":"9652332178",
+		"email":"lokeshporalla@gmail.com"
+
+	},
+	"careerobject":{
+		"c":"adminstative assistent with 6 years experience"
+
+	},
+
+"education":[
+{
+	"course":"b.tech",
+	"college":"MIC COLLEGE",
+	"per":"80%"
+	
+
+},
+{
+	"course":"inter",
+	"college":"VVRC",
+	"per":"92%"
+},
+{
+	"course":"ssc",
+	"college":"AADHARSHA",
+	"per":"88%"
+}
+
+],
+"skills":[
+{
+	"title":"Programming Languages",
+	"output":[
+		"C","C++","Java","Python"
+	]
+},
+{
+	"title":"operating Systems",
+	"output":[
+		"Windows","Ubuntu","Linux"
+	]
+},
+{
+	"title":"DBMS",
+	"output":["oracle","sql","mysql"]
+}
+]
+
+}
